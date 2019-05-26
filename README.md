@@ -1,6 +1,10 @@
-# AngularDemoApp
+## Angular Demo app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+This repo will serve as a template to start any specific projects. It has following libraries included:
+
+- Bootstrap v4.3.x
+- FontAwesome v5.8.x
+- Chart-js v2.8.x
 
 ## Development server
 
